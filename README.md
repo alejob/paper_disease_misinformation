@@ -20,8 +20,11 @@ paper_disease_misinformation/
 ├── analysis.ipynb           # Notebook for core analysis and plotting
 ├── umap_analysis.ipynb      # Notebook for UMAP-based clustering analysis
 ├── data/                    # Directory for simulation output CSVs
+├── images/                  # Directory for images output
 ├── requirements.txt         # Python dependencies
+├── LICENCE                  # MIT Licence 
 └── README.md                # Project documentation (this file)
+
 ```
 
 ## Requirements
